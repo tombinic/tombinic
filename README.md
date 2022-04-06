@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Rust language.
 - 💬 For any question don't hesitate to contact me.
 - 📫 How to reach me: nicolo.tombini@gmail.com
+- :black_nib: you can text me on my Linke
