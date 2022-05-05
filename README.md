@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on some project at University.
-- 🌱 I’m currently learning Rust language.
+- 🌱 I’m currently learning Rust language and React JS.
 - 💬 For any question don't hesitate to contact me.
 - 📫 How to reach me: nicolo.tombini@gmail.com
 - :black_nib: You can text me on my Linkedin profile: https://www.linkedin.com/in/nicol%C3%B2-tombini-124b52235/
