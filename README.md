@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on some project at University. You will see them soon.
+- 🔭 I’m currently working on some project at University.
 - 🌱 I’m currently learning Rust language.
 - 💬 For any question don't hesitate to contact me.
 - 📫 How to reach me: nicolo.tombini@gmail.com
