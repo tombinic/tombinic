@@ -100,7 +100,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/tombinic/tombinic/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/tombinic/tombinic/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
