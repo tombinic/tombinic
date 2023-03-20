@@ -128,8 +128,9 @@
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=nicolòtombini)
-
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=nicolòtombini&unique={true|1|on|yes}" alt="Recently played Spotify tracks" />
+</div>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
