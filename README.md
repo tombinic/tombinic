@@ -2,14 +2,42 @@
 
 ###
 
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/tombinic/tombinic/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/tombinic/count.svg?"  />
+</div>
+
+<br>
+
+- :books: Computer Science and Engineering student @[PoliMi](https://www.polimi.it/)
+- :computer: I’m working...
+- 📫 How to reach me: ```nicolo.tombini@mail.polimi.it``` - ```nicolo.tombini@gmail.com```
+- :link: Some of useful links
+  - :eyes: [LinkedIn profile](https://www.linkedin.com/in/nicol%C3%B2-tombini-124b52235/)
+  - :earth_americas: [Website](https://nicolotombini.com/)
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
+</div>
+
+## About my GitHub ⭐:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tombinic&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=tombinic&locale=en&mode=daily&theme=vue-dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tombinic&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
+</div>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
+## My skills and passions 🫀:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" width="52" alt="apache logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
@@ -96,22 +124,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" width="52" alt="apple logo"  />
 </div>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
+</div>
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/tombinic/tombinic/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/tombinic/count.svg?"  />
-</div>
-
-###
-
+## About my social life :globe_with_meridians: :
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
@@ -125,19 +145,7 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
 </div>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=nicolòtombini&unique={true|1|on|yes}" alt="Recently played Spotify tracks" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 </div>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-- :books: Computer Science and Engineering student @[PoliMi](https://www.polimi.it/)
-- :computer: I’m working...
-- 📫 How to reach me: ```nicolo.tombini@mail.polimi.it``` - ```nicolo.tombini@gmail.com```
-- :link: Some of useful links
-  - :eyes: [LinkedIn profile](https://www.linkedin.com/in/nicol%C3%B2-tombini-124b52235/)
-  - :earth_americas: [Website](https://nicolotombini.com/)
-###
