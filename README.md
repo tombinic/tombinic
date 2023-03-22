@@ -16,7 +16,7 @@
 <br>
 
 - :books: Computer Science and Engineering student @[PoliMi](https://www.polimi.it/)
-- :computer: I’m working...
+- :computer: Software Engineer @[Neuraloo](https://neuraloo.com/)
 - 📫 How to reach me: ```nicolo.tombini@mail.polimi.it``` - ```nicolo.tombini@gmail.com```
 - :link: Some of useful links
   - :eyes: [LinkedIn profile](https://www.linkedin.com/in/nicol%C3%B2-tombini-124b52235/)
@@ -97,11 +97,6 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="48" height="34" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="48" height="34" alt="instagram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="48" height="34" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" height="34" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="48" height="34" alt="stackoverflow logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="48" height="34" alt="whatsapp logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="48" height="34" alt="microsoft-outlook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="48" height="34" alt="telegram logo"  />
 </div>
 
 <div align="center">
