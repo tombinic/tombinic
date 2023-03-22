@@ -80,9 +80,7 @@
 ###
 ## About my social life :globe_with_meridians: :
 <div align="center">
-<a href="https://www.linkedin.com/in/niccolò-balestrieri-91a386252/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="35" alt="linkedin logo"  />
-  </a>
 
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="48" height="34" alt="twitter logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="48" height="34" alt="discord logo"  />
