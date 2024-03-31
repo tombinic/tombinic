@@ -15,7 +15,7 @@
 
 <br>
 
-- :books: Computer Science and Engineering student @[PoliMi](https://www.polimi.it/)
+- :books: AI student @[PoliMi](https://www.polimi.it/)
 - :computer: Software Engineer @[Neuraloo](https://neuraloo.com/)
 - 📫 How to reach me: ```nicolo.tombini@mail.polimi.it``` - ```nicolo.tombini@gmail.com```
 - :link: Some of useful links
